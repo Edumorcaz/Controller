@@ -1,0 +1,11 @@
+{
+    "Technitians":[
+        {"firstName":"John", "lastName":"Doe", "process":"Check","id":"03425A"},
+	{"firstName":"Miguel", "lastName":"Tlaseca", "process":"Electrical test","id":"003547"},
+	{"firstName":"Jonathan","lastName":"Gomez","process":"Electrical test","id":"03475A"},
+	{"firstName":"Julio","lastName":"Lopez","process":"Electrical test","id":"003553"},
+	{"firstName":"Emmanuel","lastName":"Betancourt","process":"Electrical test","id":"003465"},
+	{"firstName":"Gerardo","lastName":"Angulo","process":"Electrical test","id":"03668A"},
+	{"firstName":"Eligio","lastName":"Luna","process":"Electrical test","id":"03720A"}
+    ]
+    }

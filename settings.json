@@ -1,0 +1,9 @@
+{
+    "cabinets": [
+        {"Test":"Crimps And Solder","Instructions":"","Result":"bool"},
+        {"Test":"Diodes","Instructions":"","Result":"bool"},
+        {"Test":"Detector Rack","Instructions":"","Results":"bool"},
+        {"Test":"Read Sales Order","Instructions":"","Results":"bool"},
+        {"Test":"Manual Cable","Instructions":"","Results":"bool"}
+    ]
+}
